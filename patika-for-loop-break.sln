@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patika-for-loop-break", "patika-for-loop-break\patika-for-loop-break.csproj", "{F78030AA-0ED1-4D60-8932-735FFE1BD65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78030AA-0ED1-4D60-8932-735FFE1BD65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78030AA-0ED1-4D60-8932-735FFE1BD65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78030AA-0ED1-4D60-8932-735FFE1BD65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78030AA-0ED1-4D60-8932-735FFE1BD65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1E9A81-57B0-4377-964A-0109453D60C5}
+	EndGlobalSection
+EndGlobal

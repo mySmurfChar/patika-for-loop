@@ -1,0 +1,14 @@
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\bin\Debug\net8.0\patika-for-loop-break.exe
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\bin\Debug\net8.0\patika-for-loop-break.deps.json
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\bin\Debug\net8.0\patika-for-loop-break.runtimeconfig.json
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\bin\Debug\net8.0\patika-for-loop-break.dll
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\bin\Debug\net8.0\patika-for-loop-break.pdb
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.AssemblyInfoInputs.cache
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.AssemblyInfo.cs
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.csproj.CoreCompileInputs.cache
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.dll
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\refint\patika-for-loop-break.dll
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.pdb
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\patika-for-loop-break.genruntimeconfig.cache
+C:\işler\kelimeoop\patika-for-loop-break\patika-for-loop-break\obj\Debug\net8.0\ref\patika-for-loop-break.dll
